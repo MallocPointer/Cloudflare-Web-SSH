@@ -1,10 +1,4 @@
-# Cloudflare SSH Terminal Mobile
-
-这是重新生成的全新项目，目录：
-
-```text
-D:\codex\cloudflare-ssh-terminal-mobile
-```
+# Cloudflare SSH Terminal Plus
 
 功能：
 
@@ -36,7 +30,7 @@ image/mobile.png
 ## 本地运行
 
 ```powershell
-cd D:\codex\cloudflare-ssh-terminal-mobile
+cd ~\cloudflare-ssh-terminal-mobile
 npm install
 npm run dev
 ```
