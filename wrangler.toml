@@ -1,0 +1,12 @@
+name = "cloudflare-ssh-terminal-mobile"
+main = "dist/worker.js"
+compatibility_date = "2026-04-26"
+compatibility_flags = ["nodejs_compat"]
+workers_dev = true
+
+[vars]
+ACCESS_TOKEN = ""
+ALLOWED_HOSTS = ""
+DEFAULT_HOST = ""
+DEFAULT_PORT = "22"
+DEFAULT_USERNAME = ""
